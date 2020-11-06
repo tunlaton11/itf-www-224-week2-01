@@ -12,7 +12,8 @@
     <div class="container-fluid">
         <div class="row row-height">
             <div class="col-md-6 cell">
-                <div class="cell-body">                    
+                <div class="cell-body">
+                    <h3>63070224</h3>
                 </div>
             </div>
             <div class="col-md-6">
@@ -21,7 +22,6 @@
                         <div class="row height-100">
                             <div class="col-12 cell" style="height: 33%;">
                                 <div class="cell-body"> 
-                                    <h3>63070224</h3>
                                 </div>
                             </div>
                             <div class="col-12 cell" style="height: 33%;">
